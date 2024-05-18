@@ -1,3 +1,7 @@
+:warning: **If you are just looking for a way to upload more games to your Arduboy FX**: Use this new website that doesn't require installing anything on your computer, it uses newer web features to talk directly to USB devices.
+
+[Arduboy FX Cart Builder](https://www.bloggingadeadhorse.com/cart/Cart.html)
+
 # Arduboy Flashcart Loader
 
 Single command index, build and upload for the Arduboy FX. Utilities to make loading new game libraries onto the FX chip a little easier. Thanks to [Mr.Blinky](https://github.com/MrBlinky) for all the great work in putting together the [Arduboy Python Utilities](https://github.com/MrBlinky/Arduboy-Python-Utilities) that this package uses.
